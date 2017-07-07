@@ -11,12 +11,15 @@
 
 All the light changes which occurred over a 30 min period.
 So something like:
+
+```
 N,S,E,W
 R,R,R,R
 G,G,R,R
 Y,Y,R,R
 R,R,G,G
 ... so on
+```
 
 ## Running the Code
 
