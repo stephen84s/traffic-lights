@@ -8,6 +8,10 @@
   "dependencies": {
     "moment": "^2.18.1"
   },
+  "repository" : {
+    "type" : "git"
+  , "url" : "https://github.com/stephen84s/traffic-lights.git"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
